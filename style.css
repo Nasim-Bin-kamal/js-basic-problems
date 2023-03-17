@@ -1,0 +1,25 @@
+.div-0 {
+  position: static;
+  background-color: black;
+  height: 200px;
+  width: 200px;
+  top: 20%;
+}
+
+.div-1 {
+  position: sticky;
+  background-color: aqua;
+  height: 300px;
+  width: 300px;
+  top: 20%;
+  left: 30%;
+}
+
+.div-2 {
+  position: absolute;
+  background-color: rgb(7, 70, 70);
+  height: 200px;
+  width: 200px;
+  /* top: 40%;
+  left: 20%; */
+}
